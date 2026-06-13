@@ -1,12 +1,5 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
-xgboost
-lightgbm
-catboost
-tensorflow
-keras
-torch
 streamlit
+pandas
+numpy
+scikit-learn
+joblib
