@@ -241,39 +241,43 @@ The interactive Streamlit application allows users to:
 ---
 # 📸 Application Screenshots
 
----
-
 ## 🏠 Home Dashboard
 
-The landing page provides an overview of the Invoice Intelligence System, including project information, technology stack, and business use cases.
+The landing page provides an overview of the Invoice Intelligence System.
 
-<img src="./assets/HomeUI.png" alt="Home Dashboard" width="95%">
+<p align="center">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/HomeUI.png" width="95%">
+</p>
 
 ---
 
 ## 🚚 Freight Cost Prediction
 
-Users can enter the invoice amount and instantly predict the expected freight cost using the trained Linear Regression model.
+Users can instantly predict the expected freight cost.
 
-<img src="./assets/FreightCostPrediction.png" alt="Freight Cost Prediction" width="95%">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/FreightCostPrediction.png" width="95%">
+</p>
 
 ---
 
 ## ✅ Invoice Flagging (Normal Invoice)
 
-The system classifies normal invoices and displays the probability score along with prediction details.
+The model classifies normal invoices.
 
-<img src="./assets/Invoice_flagging_normal.png" alt="Invoice Flagging Normal" width="95%">
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/Invoice_flagging_normal.png" width="95%">
+</p>
 
 ---
 
 ## 🚨 Invoice Flagging (Suspicious Invoice)
 
-The model detects suspicious invoices and recommends manual verification before approval.
+The model detects suspicious invoices.
 
-<img src="./assets/invoice_flagging_suspicious.png" alt="Invoice Flagging Suspicious" width="95%">
+<p align="center">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/invoice_flagging_suspicious.png" width="95%">
+</p>
 
 ---
 
