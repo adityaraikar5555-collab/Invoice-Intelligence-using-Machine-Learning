@@ -248,8 +248,15 @@ The interactive Streamlit application allows users to:
 The landing page provides an overview of the Invoice Intelligence System, including project information, technology stack, and business use cases.
 
 <p align="center">
-  <img src="assets/HomeUI.png" width="100%">
-</p>
+  <img src="assets/HomeUI.png" width="100%"># 📸 Application Screenshots
+
+---
+
+## 🏠 Home Dashboard
+
+The landing page provides an overview of the Invoice Intelligence System, including project information, technology stack, and business use cases.
+
+![Home Dashboard](./assets/HomeUI.png)
 
 ---
 
@@ -257,9 +264,7 @@ The landing page provides an overview of the Invoice Intelligence System, includ
 
 Users can enter the invoice amount and instantly predict the expected freight cost using the trained Linear Regression model.
 
-<p align="center">
-  <img src="assets/FreightCostPrediction.png" width="100%">
-</p>
+![Freight Cost Prediction](./assets/FreightCostPrediction.png)
 
 ---
 
@@ -267,9 +272,7 @@ Users can enter the invoice amount and instantly predict the expected freight co
 
 The system classifies normal invoices and displays the probability score along with prediction details.
 
-<p align="center">
-  <img src="assets/Invoice_flagging_normal.png" width="100%">
-</p>
+![Invoice Flagging Normal](./assets/Invoice_flagging_normal.png)
 
 ---
 
@@ -277,10 +280,9 @@ The system classifies normal invoices and displays the probability score along w
 
 The model detects suspicious invoices and recommends manual verification before approval.
 
-<p align="center">
-  <img src="assets/invoice_flagging_suspicious.png" width="100%">
-</p>
+![Invoice Flagging Suspicious](./assets/invoice_flagging_suspicious.png)
 
+---
 ---
 # 💼 Business Applications
 
