@@ -246,7 +246,7 @@ The interactive Streamlit application allows users to:
 The landing page provides an overview of the Invoice Intelligence System.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/HomeUI.png" width="95%">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assests/HomeUI.png" width="95%">
 </p>
 
 ---
@@ -256,7 +256,7 @@ The landing page provides an overview of the Invoice Intelligence System.
 Users can instantly predict the expected freight cost.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/FreightCostPrediction.png" width="95%">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assests/FreightCostPrediction.png" width="95%">
 </p>
 
 ---
@@ -266,7 +266,7 @@ Users can instantly predict the expected freight cost.
 The model classifies normal invoices.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/Invoice_flagging_normal.png" width="95%">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assests/Invoice_flagging_normal.png" width="95%">
 </p>
 
 ---
@@ -276,7 +276,7 @@ The model classifies normal invoices.
 The model detects suspicious invoices.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assets/invoice_flagging_suspicious.png" width="95%">
+<img src="https://raw.githubusercontent.com/adityaraikar5555-collab/Invoice-Intelligence-using-Machine-Learning/main/assests/invoice_flagging_suspicious.png" width="95%">
 </p>
 
 ---
